@@ -1,5 +1,5 @@
 ## This function can create a matrix object that can cache its inverse.
-## functions do
+
 
 ## This initial function defines the argument with default "matrix".
 ## If there is a new matrix then inv is reset to NULL.
